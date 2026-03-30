@@ -2,7 +2,7 @@
 Developed a structured SQL database to analyse oil production operations across fields and wells. 
 The project focuses on extracting business insights such as revenue performance, production efficiency and operation cost analysis.
 
-# 🎯 Problem Statement
+### 🎯 Problem Statement
 
 Oil & gas companies generate large volumes of operational data across wells, fields, and operators.
 
@@ -14,11 +14,11 @@ However, key questions remain:
 
 This project answers these questions using SQL-based analysis.
 
-# 🗂️ Dataset Description
+### 🗂️ Dataset Description
 
 The dataset simulates oil production operations across multiple wells and fields.
 
-## column                Description
+##### column                Description
 Well Name                 Name of the oil well
 Field                     Oil field location
 Production Date           date of production
@@ -29,7 +29,7 @@ Operator                  operating company
 Location                  onshore/offshore loc.
 
 
-# ⚙️ Key Metrics
+#### ⚙️ Key Metrics
 	•	Total Production → Total barrels produced
 	•	Revenue → Income generated
 	•	Cost → Operational expenses
@@ -37,38 +37,38 @@ Location                  onshore/offshore loc.
 	•	Cost per Barrel → Efficiency metric
 
 
-# 🧮 SQL Analysis Performed
+#### 🧮 SQL Analysis Performed
 
-### 1. Data Organization
+###### 1. Data Organization
 	•	Sorted production data chronologically
 	•	Structured dataset for analysis
 
 ⸻
 
-### 2. Total Production per Field
+###### 2. Total Production per Field
 
 Analyzed overall output across fields to identify high-performing regions.
 
 ⸻
 
-### 3. Top Performing Wells
+###### 3. Top Performing Wells
 
 Ranked wells by production volume to identify key contributors.
 
 ⸻
 
-### 4. High Revenue Operations
+###### 4. High Revenue Operations
 
 Filtered operations generating the highest revenue.
 
 ⸻
 
-### 5. Operator Performance by Revenue
+###### 5. Operator Performance by Revenue
 
 Compared operators based on total revenue generated.
 
 ⸻
 
-### 6. Efficiency Analysis (Cost per Barrel)
+###### 6. Efficiency Analysis (Cost per Barrel)
 
 Evaluated operational efficiency by calculating cost per unit of production.

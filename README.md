@@ -22,15 +22,15 @@ This project answers these questions using SQL-based analysis.
 
 The dataset simulates oil production operations across multiple wells and fields.
 
-##### column                Description
-Well Name                 Name of the oil well
-Field                     Oil field location
-Production Date           date of production
-Barrels Produced          vol. of oil prod.
-Revenue                   revenue generated
-Cost                      cost of production
-Operator                  operating company
-Location                  onshore/offshore loc.
+##### column               
+Well Name                 
+Field                     
+Production Date           
+Barrels Produced          
+Revenue                   
+Cost                      
+Operator                  
+Location                  
 
 
 #### ⚙️ Key Metrics

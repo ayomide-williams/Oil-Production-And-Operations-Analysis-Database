@@ -7,9 +7,13 @@ The project focuses on extracting business insights such as revenue performance,
 Oil & gas companies generate large volumes of operational data across wells, fields, and operators.
 
 However, key questions remain:
+
 	•	Which wells are truly profitable?
+	
 	•	Which operators are cost-efficient?
+	
 	•	Are there declining production trends?
+	
 	•	Where are operational inefficiencies?
 
 This project answers these questions using SQL-based analysis.
